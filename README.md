@@ -13,6 +13,6 @@ Consider an extended vacuum cleaner world with three locations: rooms A, B, and 
   - `b.txt`: State – Action information for Agent B
   - The format for both files is specified in the assignment description.
 
-## Execution
+## Usage
 Execute main.py file under src folder.
 Take outputs from output folder.
